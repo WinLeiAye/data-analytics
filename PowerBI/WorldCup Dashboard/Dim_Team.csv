@@ -1,0 +1,225 @@
+team_key,team_name,team_code,association
+1,Afghanistan,AFG,AFC
+2,Albania,ALB,UEFA
+3,Algeria,ALG,CAF
+4,American Samoa,ASA,OFC
+5,Andorra,AND,UEFA
+6,Angola,ANG,CAF
+7,Anguilla,AIA,CONCACAF
+8,Antigua and Barbuda,ATG,CONCACAF
+9,Argentina,ARG,CONMEBOL
+10,Armenia,ARM,UEFA
+11,Aruba,ARU,CONCACAF
+12,Australia,AUS,AFC
+13,Austria,AUT,UEFA
+14,Azerbaijan,AZE,UEFA
+15,Bahamas,BAH,CONCACAF
+16,Bahrain,BHR,AFC
+17,Bangladesh,BAN,AFC
+18,Barbados,BRB,CONCACAF
+19,Belarus,BLR,UEFA
+20,Belgium,BEL,UEFA
+21,Belize,BLZ,CONCACAF
+22,Benin,BEN,CAF
+23,Bermuda,BER,CONCACAF
+24,Bhutan,BHU,AFC
+25,Bolivia,BOL,CONMEBOL
+26,Bosnia and Herzegovina,,Historical / not currently FIFA-ranked
+27,Bosnia-Herzegovina,BIH,UEFA
+28,Botswana,BOT,CAF
+29,Brazil,BRA,CONMEBOL
+30,British Virgin Islands,VGB,CONCACAF
+31,Brunei Darussalam,BRU,AFC
+32,Bulgaria,BUL,UEFA
+33,Burkina Faso,BFA,CAF
+34,Burundi,BDI,CAF
+35,Cambodia,CAM,AFC
+36,Cameroon,CMR,CAF
+37,Canada,CAN,CONCACAF
+38,Cape Verde,CPV,CAF
+39,Cayman Islands,CAY,CONCACAF
+40,Central African Republic,CTA,CAF
+41,Chad,CHA,CAF
+42,Chile,CHI,CONMEBOL
+43,China PR,CHN,AFC
+44,Chinese Taipei,TPE,AFC
+45,Colombia,COL,CONMEBOL
+46,Comoros,COM,CAF
+47,Congo,CGO,CAF
+48,Congo DR,COD,CAF
+49,Cook Islands,COK,OFC
+50,Costa Rica,CRC,CONCACAF
+51,Croatia,CRO,UEFA
+52,Cuba,CUB,CONCACAF
+53,Curaçao,CUW,CONCACAF
+54,Cyprus,CYP,UEFA
+55,Czech Republic,,Historical / not currently FIFA-ranked
+56,Czechia,CZE,UEFA
+57,Czechoslovakia,,Historical / not currently FIFA-ranked
+58,Côte d'Ivoire,CIV,CAF
+59,Denmark,DEN,UEFA
+60,Djibouti,DJI,CAF
+61,Dominica,DMA,CONCACAF
+62,Dominican Republic,DOM,CONCACAF
+63,Dutch East Indies,,Historical / not currently FIFA-ranked
+64,Ecuador,ECU,CONMEBOL
+65,Egypt,EGY,CAF
+66,El Salvador,SLV,CONCACAF
+67,England,ENG,UEFA
+68,Equatorial Guinea,EQG,CAF
+69,Eritrea,ERI,CAF
+70,Estonia,EST,UEFA
+71,Eswatini,SWZ,CAF
+72,Ethiopia,ETH,CAF
+73,FR Yugoslavia,,Historical / not currently FIFA-ranked
+74,Faroe Islands,FRO,UEFA
+75,Fiji,FIJ,OFC
+76,Finland,FIN,UEFA
+77,France,FRA,UEFA
+78,Gabon,GAB,CAF
+79,Georgia,GEO,UEFA
+80,Germany,GER,UEFA
+81,Germany DR,,Historical / not currently FIFA-ranked
+82,Ghana,GHA,CAF
+83,Gibraltar,GIB,UEFA
+84,Greece,GRE,UEFA
+85,Grenada,GRN,CONCACAF
+86,Guam,GUM,AFC
+87,Guatemala,GUA,CONCACAF
+88,Guinea,GUI,CAF
+89,Guinea-Bissau,GNB,CAF
+90,Guyana,GUY,CONCACAF
+91,Haiti,HAI,CONCACAF
+92,Honduras,HON,CONCACAF
+93,Hong Kong,HKG,AFC
+94,"Hong Kong, China",HKG,AFC
+95,Hungary,HUN,UEFA
+96,IR Iran,IRN,AFC
+97,Iceland,ISL,UEFA
+98,India,IND,AFC
+99,Indonesia,IDN,AFC
+100,Iraq,IRQ,AFC
+101,Israel,ISR,UEFA
+102,Italy,ITA,UEFA
+103,Jamaica,JAM,CONCACAF
+104,Japan,JPN,AFC
+105,Jordan,JOR,AFC
+106,Kazakhstan,KAZ,UEFA
+107,Kenya,KEN,CAF
+108,Korea DPR,PRK,AFC
+109,Korea Republic,KOR,AFC
+110,Kosovo,KOS,UEFA
+111,Kuwait,KUW,AFC
+112,Kyrgyz Republic,KGZ,AFC
+113,Laos,LAO,AFC
+114,Latvia,LVA,UEFA
+115,Lebanon,LBN,AFC
+116,Lesotho,LES,CAF
+117,Liberia,LBR,CAF
+118,Libya,LBY,CAF
+119,Liechtenstein,LIE,UEFA
+120,Lithuania,LTU,UEFA
+121,Luxembourg,LUX,UEFA
+122,Macau,MAC,AFC
+123,Madagascar,MAD,CAF
+124,Malawi,MWI,CAF
+125,Malaysia,MAS,AFC
+126,Maldives,MDV,AFC
+127,Mali,MLI,CAF
+128,Malta,MLT,UEFA
+129,Mauritania,MTN,CAF
+130,Mauritius,MRI,CAF
+131,Mexico,MEX,CONCACAF
+132,Moldova,MDA,UEFA
+133,Mongolia,MNG,AFC
+134,Montenegro,MNE,UEFA
+135,Montserrat,MSR,CONCACAF
+136,Morocco,MAR,CAF
+137,Mozambique,MOZ,CAF
+138,Myanmar,MYA,AFC
+139,Namibia,NAM,CAF
+140,Nepal,NEP,AFC
+141,Netherlands,NED,UEFA
+142,New Caledonia,NCL,OFC
+143,New Zealand,NZL,OFC
+144,Nicaragua,NCA,CONCACAF
+145,Niger,NIG,CAF
+146,Nigeria,NGA,CAF
+147,North Macedonia,MKD,UEFA
+148,Northern Ireland,NIR,UEFA
+149,Norway,NOR,UEFA
+150,Oman,OMA,AFC
+151,Pakistan,PAK,AFC
+152,Palestine,PLE,AFC
+153,Panama,PAN,CONCACAF
+154,Papua New Guinea,PNG,OFC
+155,Paraguay,PAR,CONMEBOL
+156,Peru,PER,CONMEBOL
+157,Philippines,PHI,AFC
+158,Poland,POL,UEFA
+159,Portugal,POR,UEFA
+160,Puerto Rico,PUR,CONCACAF
+161,Qatar,QAT,AFC
+162,Republic of Ireland,IRL,UEFA
+163,Romania,ROU,UEFA
+164,Russia,RUS,UEFA
+165,Rwanda,RWA,CAF
+166,Samoa,SAM,OFC
+167,San Marino,SMR,UEFA
+168,Saudi Arabia,KSA,AFC
+169,Scotland,SCO,UEFA
+170,Senegal,SEN,CAF
+171,Serbia,SRB,UEFA
+172,Serbia and Montenegro,,Historical / not currently FIFA-ranked
+173,Seychelles,SEY,CAF
+174,Sierra Leone,SLE,CAF
+175,Singapore,SGP,AFC
+176,Slovakia,SVK,UEFA
+177,Slovenia,SVN,UEFA
+178,Solomon Islands,SOL,OFC
+179,Somalia,SOM,CAF
+180,South Africa,RSA,CAF
+181,South Korea,,Historical / not currently FIFA-ranked
+182,South Sudan,SSD,CAF
+183,Soviet Union,,Historical / not currently FIFA-ranked
+184,Spain,ESP,UEFA
+185,Sri Lanka,SRI,AFC
+186,St Kitts and Nevis,SKN,CONCACAF
+187,St Lucia,LCA,CONCACAF
+188,St Vincent and the Grenadines,VIN,CONCACAF
+189,Sudan,SDN,CAF
+190,Suriname,SUR,CONCACAF
+191,Sweden,SWE,UEFA
+192,Switzerland,SUI,UEFA
+193,Syria,SYR,AFC
+194,São Tomé and Príncipe,STP,CAF
+195,Tahiti,TAH,OFC
+196,Tajikistan,TJK,AFC
+197,Tanzania,TAN,CAF
+198,Thailand,THA,AFC
+199,The Gambia,GAM,CAF
+200,Timor-Leste,TLS,AFC
+201,Togo,TOG,CAF
+202,Tonga,TGA,OFC
+203,Trinidad and Tobago,TRI,CONCACAF
+204,Tunisia,TUN,CAF
+205,Turkmenistan,TKM,AFC
+206,Turks and Caicos Islands,TCA,CONCACAF
+207,Türkiye,TUR,UEFA
+208,US Virgin Islands,VIR,CONCACAF
+209,Uganda,UGA,CAF
+210,Ukraine,UKR,UEFA
+211,United Arab Emirates,UAE,AFC
+212,United States,USA,CONCACAF
+213,Uruguay,URU,CONMEBOL
+214,Uzbekistan,UZB,AFC
+215,Vanuatu,VAN,OFC
+216,Venezuela,VEN,CONMEBOL
+217,Vietnam,VIE,AFC
+218,Wales,WAL,UEFA
+219,West Germany,,Historical / not currently FIFA-ranked
+220,Yemen,YEM,AFC
+221,Yugoslavia,,Historical / not currently FIFA-ranked
+222,Zaire,,Historical / not currently FIFA-ranked
+223,Zambia,ZAM,CAF
+224,Zimbabwe,ZIM,CAF

@@ -1,0 +1,13 @@
+round_key,round_name,stage_order
+1,Final,7
+2,Final stage,6
+3,First group stage,1
+4,First round,1
+5,Group stage,1
+6,Group stage play-off,2
+7,Quarter-finals,4
+8,Round of 16,3
+9,Second group stage,2
+10,Second round,2
+11,Semi-finals,5
+12,Third-place match,6
